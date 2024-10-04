@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 .cs-bg {
-    background-image: url("./public/hero.JPG");
+    background-image: url("../public/hero.JPG");
 }
